@@ -1,0 +1,21 @@
+.example-card {
+    max-width: 1400px;
+    margin-top: 80px;
+    margin-left: 200px;
+    min-height: 800px;
+    background-color: blanchedalmond;
+}
+
+.rCards{
+    /* margin-left: 200px */
+    margin: 100px 160px;
+}
+
+.cards{
+    margin-right: 55px;
+}
+
+.shadow {
+    filter: drop-shadow( 4px 4px 3px rgba(228, 220, 220, 0.7));
+    -webkit-filter: drop-shadow( 4px 4px 3px rgba(0, 0, 0, .7));
+}
