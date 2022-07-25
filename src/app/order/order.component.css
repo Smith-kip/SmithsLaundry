@@ -1,0 +1,17 @@
+.card{
+    margin: 150px 450px;
+    min-width: 800px;
+    min-height: 400px;
+}
+
+.container{
+    margin-top: 10px;
+}
+
+.order-btn{
+    margin-top: 20px;
+    height: 50px;
+}
+.page{
+    /* background-image: url('./../../assets/images/hanging line1.jpg'); */
+}
